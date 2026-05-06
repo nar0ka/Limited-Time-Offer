@@ -24,7 +24,7 @@ We build autonomous, high-performance, and ready-to-use workflows designed to sa
 | :--- | :--- | :--- |
 | **Ghost Recruiter** | **AI-Resume Screening:** Autonomous HR assistant that filters and analyzes candidates using AI. | [View Product](https://naroka.gumroad.com/l/Ghost-Recruiter-AI-Resume-Screening) |
 | **CryptoMind AI** | **24/7 Market Analyst:** Autonomous system delivering institutional-grade market data directly to you. | [View Product](https://naroka.gumroad.com/l/CryptoMindAIProAnalyst) |
-| **Telegram + G. Sheets** | **Task & Schedule Management:** Turn your Telegram into an all-in-one data syncing engine. | [View Product](https://naroka.gumroad.com](https://naroka.gumroad.com/l/telegramAuto-SenderPRO) |
+| **Telegram + G. Sheets** | **Task & Schedule Management:** Turn your Telegram into an all-in-one data syncing engine. | [View Product](https://naroka.gumroad.com/l/telegramAuto-SenderPRO) |
 | **Viral AI Content Engine** | **Social Media Automation:** Generate, format, and publish viral content on autopilot. | [View Product](https://naroka.gumroad.com/l/ViralAIContentEngineGeminiAI) |
 | **DeepPublish AI** | **Autonomous Newsroom:** Scrape, process, and publish news to your channels in real time. | [View Product](https://naroka.gumroad.com/l/deeppublish-ai) |
 
