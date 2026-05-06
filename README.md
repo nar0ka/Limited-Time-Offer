@@ -28,6 +28,28 @@ We build autonomous, high-performance, and ready-to-use workflows designed to sa
 | **Viral AI Content Engine** | **Social Media Automation:** Generate, format, and publish viral content on autopilot. | [View Product](https://naroka.gumroad.com/l/ViralAIContentEngineGeminiAI) |
 | **DeepPublish AI** | **Autonomous Newsroom:** Scrape, process, and publish news to your channels in real time. | [View Product](https://naroka.gumroad.com/l/deeppublish-ai) |
 
+
+## 📋 Detailed Product Overview
+
+* **Ghost Recruiter: AI-Resume Screening**
+  * **What it is:** A comprehensive HR assistant powered by AI.
+  * **Key Features:** Automatically screens resumes, evaluates candidate skills, categorizes data, and saves hours of manual recruitment work.
+
+* **CryptoMind AI Pro: 24/7 Autonomous Institutional Analyst**
+  * **What it is:** A specialized analytics pipeline designed for constant market monitoring.
+  * **Key Features:** Collects data, performs sentiment analysis, and delivers institutional-grade insights directly to you without manual effort.
+
+* **Telegram + Google Calendar & Sheets Automation**
+  * **What it is:** A data synchronization bridge.
+  * **Key Features:** Turns your Telegram into an active task dashboard, sending reminders, writing logs to spreadsheets, and syncing with your calendar automatically.
+
+* **Viral AI Content Engine (Telegram + Gemini AI + Google Sheets)**
+  * **What it is:** An automated content-creation pipeline.
+  * **Key Features:** Integrates Gemini AI to generate, format, and prepare viral posts for publishing on autopilot.
+
+* **DeepPublish AI: Autonomous Newsroom**
+  * **What it is:** A scraping and distribution engine for n8n.
+  * **Key Features:** Automatically collects articles, summarizes content with AI, and publishes to your news feeds or social channels.
 ---
 
 ## 📈 Why Choose Naroka Automations?
